@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, folks!
 
-<!--
-**pablofernandezbonnett/pablofernandezbonnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+<!-- <img align='right' src="https://github.com/pablofernandezbonnett/pablofernandezbonnett/blob/main/IMG_0044.JPG" width="150"> -->
+I'm a Pablo, from Spain based in Ireland, *Software Engineer at <a href="https://www.philos-it.com">Philos IT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">*. <br/>
+Currently doing a *Master's Degree in Video Game Design and Development at <a href="https://www.unir.net/diseno/master-diseno-videojuegos/">Unir</a>* :muscle:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+### Technologies
+
+### Contact
+
+![Linkedin:pablomiguelfernandezbonnett](https://img.shields.io/badge/LinkedIn-pablomiguelfernandezbonnett-blue?logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/pablo-miguel-fernandez-bonnett-a22a9a56/?locale=en_US)
