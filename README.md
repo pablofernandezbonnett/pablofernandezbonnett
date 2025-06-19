@@ -5,9 +5,10 @@
 ### About Me
 
 <!-- <img align='right' src="https://github.com/pablofernandezbonnett/pablofernandezbonnett/blob/main/IMG_0044.JPG" width="150"> -->
-I'm Pablo, from Spain currently based in Gamagori, Aichi, Japan, working as a *Software Engineer at <a href="https://www.philos-it.com">Philos IT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">*. <br/>
-Current journey **Master's Degree in Video Game Design and Development at <a href="https://www.unir.net/diseno/master-diseno-videojuegos/">Unir</a>** :muscle: <br/>
-Current goal **become a Gaming Developer and FullStack Software Developer**
+👋 Hi, I'm **Pablo** — a Software Engineer from 🇪🇸 Spain, now based in 🗾 Gamagori, Aichi (Japan).  
+💻 Currently working as a *Contractor Software Engineer at My Home* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+🎓 I hold a **Master's in Video Game Design & Development** from [UNIR](https://www.unir.net/diseno/master-diseno-videojuegos/)  
+🎯 My mission: **Level up into a Game Developer & Full-Stack Engineer**  
 
 ### Languages
 
