@@ -1,6 +1,6 @@
 # Hello, folks!
 
-![Pablo](https://github.com/pablofernandezbonnett/pablofernandezbonnett/blob/main/banner.png "Logo Title Text 1")
+![Pablo](https://github.com/pablofernandezbonnett/pablofernandezbonnett/blob/main/profile%20image.png "Logo Title Text 1")
 
 ## About Me
 
