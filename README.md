@@ -1,6 +1,6 @@
 # Hello, folks 👋
 
-![Pablo](https://github.com/pablofernandezbonnett/pablofernandezbonnett/blob/main/profile%20image.png)
+<img width="1536" height="1024" alt="ChatGPT Image 13 feb 2026, 13_01_06" src="https://github.com/user-attachments/assets/569c0809-cac2-462f-b453-8fb43e96894a" />
 
 > I build software meant to last.
 
