@@ -1,117 +1,126 @@
-# Hello, folks!
+# Hello, folks 👋
 
-![Pablo](https://github.com/pablofernandezbonnett/pablofernandezbonnett/blob/main/profile%20image.png "Logo Title Text 1")
+![Pablo](https://github.com/pablofernandezbonnett/pablofernandezbonnett/blob/main/profile%20image.png)
 
-## About Me
+> I build software meant to last.
 
-👋 Hi, I'm **Pablo** — a Software Engineer from 🇪🇸 Spain, now based in 🗾 Gamagori, Aichi (Japan).  
-💻 Currently working as a Contractor Software Engineer at **My Home** — fully remote and loving the async life.
+I'm Pablo — a software engineer from 🇪🇸 Spain, living in 🗾 Japan and building systems with long-term intent.
+
+Remote contractor. Product-minded engineer. Independent builder.
+
+Focused on product, systems, and long-term thinking.
+
+---
+
+## 🧭 What I do
+
+- Build and evolve production software systems
+- Work close to product, not just code
+- Improve legacy platforms and make them sustainable
+- Design solutions meant for longevity, not just delivery
+
+I enjoy shipping things that people actually use.
+
+---
+
+## 🚧 Currently building
+
+- Tooling and components around e-commerce platforms
+- Internal utilities using Flutter
+- Backend services and integrations
+- Experiments in game development (Unity / Godot)
+- Quietly building ideas I may release someday
+
+---
+
+## 🧬 Tech DNA
+
+**Core expertise**  
+`Java` · `Spring` · `Hibernate` · `SAP Hybris` · `SQL`
+
+**Frontend direction**  
+`Flutter` · `Dart` · `Jaspr`
+
+**Backend evolution**  
+Exploring `Kotlin` as a natural step from Java —  keeping strong JVM alignment across the stack.
+
+**Environment & tooling**  
+`Docker` · `Git` · `VS Code` · `Postman` · `Figma`
+
+I care about:
+- clean architecture
+- pragmatic engineering
+- product-driven development
+- maintainable systems over trendy stacks
 
 ---
 
 ## 🧠 Background
 
-- 🖥️ 15+ years of experience as a **Java Developer** (Spring, Hibernate, JSF).
-- 🛒 Deep experience in **SAP Hybris** and enterprise-level e-commerce platforms.
-- 🔄 Agile, Scrum, code reviews, performance optimization — you name it.
-- 🌏 I've worked in **Spain**, **Ireland**, and now **Japan**, adapting to diverse work cultures.
+15+ years working on production systems across Spain, Ireland, and Japan.
+
+Most of my career sits at the intersection of:
+- e-commerce platforms
+- enterprise systems
+- product engineering
+- modernization of legacy stacks
+
+I like helping software evolve — not just grow.
 
 ---
 
-## 🔧 Tech Stack
+## 🧩 Engineering philosophy
 
-**Main Stack:**  
-`Java` · `Spring` · `Hibernate` · `SAP Hybris` · `JSF` · `SQL`
-
-**Recently exploring:**  
-`Flutter` · `Dart` · `Firebase` · `React` · `Python`
-
-**Tools I like:**  
-`Git` · `Jira` · `VS Code` · `Postman` · `Docker` · `Figma`
+- Systems > features  
+- Products > projects  
+- Stability > hype  
+- Shipping > overthinking  
+- Long-term thinking > short-term wins  
 
 ---
 
-## 📚 Education
+## 🛠 Selected work
 
-🎓 **Master's in Game Design & Development**  
-UNIR – La Universidad Internacional de La Rioja (2021)
-
-🎓 **Degree in Computer Systems Engineering**  
-Universidad Alfonso X El Sabio (Madrid)
-
----
-
-## 🎮 What I'm up to
-
-- 🕹️ Learning game development in Unity & Godot  
-- 🌐 Expanding into **full-stack development**
-- 📦 Building hobby projects and tools in Flutter
-- ✏️ Slowly but surely working on my first indie game prototype
+- E-commerce platform modules and tooling
+- Flutter-based internal utilities
+- Backend integrations and services
+- Game development experiments and prototypes
 
 ---
 
-## ✨ Fun facts
+## 🧭 Work style
 
-- 🗣️ I speak **Spanish** (native), **English** (fluent), and I’m **learning Japanese** — slowly but steadily（日本語はまだ話せないけど、頑張って勉強してます）.
-- ☕ I’m into **coffee rituals**, **pixel art**, and either fixing or breaking things that were working *almost* perfectly.
-- 🌙 You’ll often catch me at a **game jam**, debugging past midnight — or building my next **Gunpla**.
-
-📫 Reach out via [LinkedIn](https://www.linkedin.com/in/pablo-miguel-fernandez-bonnett) or drop me a line at `pmiguel.ieee@gmail.com`.
-
----
-
-## Sobre mí
-
-👋 ¡Hola! Soy **Pablo**, un Ingeniero de Software de 🇪🇸 España, viviendo actualmente en 🗾 Gamagori, Aichi (Japón).  
-💻 Trabajo como Contractor Software Engineer en **My Home**, 100% remoto y feliz con el trabajo asíncrono.
+Remote-first  
+Async-friendly  
+Product-oriented  
+Long-term focused  
 
 ---
 
-## 🧠 Trayectoria
+## 🎮 Outside of work
 
-- 🖥️ Más de 15 años de experiencia como **desarrollador Java** (Spring, Hibernate, JSF).
-- 🛒 Amplia experiencia en **SAP Hybris** y plataformas de e-commerce a nivel empresarial.
-- 🔄 Agile, Scrum, revisión de código, optimización de rendimiento, etc.
-- 🌏 He trabajado en **España**, **Irlanda** y ahora en **Japón**, adaptándome a culturas laborales diversas.
-
----
-
-## 🔧 Tecnologías
-
-**Stack principal:**  
-`Java` · `Spring` · `Hibernate` · `SAP Hybris` · `JSF` · `SQL`
-
-**Explorando últimamente:**  
-`Flutter` · `Dart` · `Firebase` · `React` · `Python`
-
-**Herramientas favoritas:**  
-`Git` · `Jira` · `VS Code` · `Postman` · `Docker` · `Figma`
+- Learning game development
+- Building hobby tools and side projects
+- Game jams & indie prototypes
+- Gunpla and miniature tinkering
+- Coffee rituals and late-night debugging sessions
 
 ---
 
-## 📚 Formación
+## 🌍 Languages
 
-🎓 **Máster en Diseño y Desarrollo de Videojuegos**  
-UNIR – La Universidad Internacional de La Rioja (2021)
-
-🎓 **Ingeniería Técnica en Sistemas Informáticos**  
-Universidad Alfonso X El Sabio (Madrid)
+Spanish (native) · English (fluent) · Japanese (learning)
 
 ---
 
-## 🎮 En qué ando metido
+## ⏳ Now
 
-- 🕹️ Aprendiendo desarrollo de videojuegos en Unity y Godot  
-- 🌐 Ampliando mis habilidades hacia el **desarrollo full-stack**
-- 📦 Creando herramientas y proyectos personales en Flutter
-- ✏️ Avanzando poco a poco en mi primer prototipo de videojuego indie
+Living in Japan, building a long-term life and growing as a product engineer  
+while developing independent ideas and personal software projects.
 
 ---
 
-## ✨ Curiosidades
+## 📫 Reach out
 
-- 🗣️ Hablo **español** (nativo), **inglés** (fluido) y estoy **aprendiendo japonés** — lento pero seguro（日本語はまだ話せないけど、頑張って勉強してます）.
-- ☕ Me encantan los **rituales cafeteros**, el **pixel art**, y arreglar (o romper) cosas que ya funcionaban *casi* perfectamente.
-- 🌙 A menudo me encontrarás en alguna **game jam**, depurando bugs pasada la medianoche — o montando mi próximo **Gunpla**.
-
-📫 Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/pablo-miguel-fernandez-bonnett) o escribirme a `pmiguel.ieee@gmail.com`.
+LinkedIn: https://www.linkedin.com/in/pablo-miguel-fernandez-bonnett  
+Email: pmiguel.ieee@gmail.com
