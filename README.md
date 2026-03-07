@@ -45,7 +45,7 @@ I enjoy shipping things that people actually use.
 Exploring `Kotlin` as a natural step from Java —  keeping strong JVM alignment across the stack.
 
 **Environment & tooling**  
-`Docker` · `Git` · `VS Code` · `Postman` · `Figma`
+`Docker` · `Git` · `VS Code` · `Bruno`
 
 I care about:
 - clean architecture
