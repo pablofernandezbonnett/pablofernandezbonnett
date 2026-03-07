@@ -12,6 +12,18 @@ Focused on product, systems, and long-term thinking.
 
 ---
 
+## ⚙️ Engineering snapshot
+
+Backend / Product Engineer with **20+ years of experience** building production systems for commerce platforms and digital products.
+
+Core expertise in **Java and Spring-based backend architectures**, with experience contributing to global e-commerce ecosystems including **SAP Store**.
+
+Recently expanding into **Flutter and Dart** to support end-to-end product development and rapid product experimentation.
+
+Currently based in **Japan**, interested in long-term product engineering roles within commerce, retail tech, and platform teams.
+
+---
+
 ## 🧭 What I do
 
 - Build and evolve production software systems
@@ -129,4 +141,4 @@ Email: pmiguel.ieee@gmail.com
 
 You can find my professional resume here:
 
-→ /resume/resume.md
+📄 [View Resume](./resume/resume.md)
