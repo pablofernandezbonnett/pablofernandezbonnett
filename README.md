@@ -124,3 +124,9 @@ while developing independent ideas and personal software projects.
 
 LinkedIn: https://www.linkedin.com/in/pablo-miguel-fernandez-bonnett  
 Email: pmiguel.ieee@gmail.com
+
+## Resume
+
+You can find my professional resume here:
+
+→ /resume/resume.md
