@@ -1,144 +1,121 @@
 # Hello, folks 👋
 
-<img width="1536" height="1024" alt="ChatGPT Image 13 feb 2026, 13_01_06" src="https://github.com/user-attachments/assets/569c0809-cac2-462f-b453-8fb43e96894a" />
-
 > I build software meant to last.
 
-I'm Pablo — a software engineer from 🇪🇸 Spain, living in 🗾 Japan and building systems with long-term intent.
+I'm Pablo, a software engineer from Spain, based in Japan.
 
-Remote contractor. Product-minded engineer. Independent builder.
+Most of my background is in **Java and Spring-based backend systems**, especially
+around commerce platforms, APIs, integrations, and production software that has
+to keep working in the real world.
 
-Focused on product, systems, and long-term thinking.
+I have spent a big part of my career improving existing systems while still
+shipping new product functionality. That balance is what I usually enjoy most:
+keeping things practical, maintainable, and useful over time.
 
----
-
-## ⚙️ Engineering snapshot
-
-Backend / Product Engineer with **20+ years of experience** building production systems for commerce platforms and digital products.
-
-Core expertise in **Java and Spring-based backend architectures**, with experience contributing to global e-commerce ecosystems including **SAP Store**.
-
-Recently expanding into **Flutter and Dart** to support end-to-end product development and rapid product experimentation.
-
-Currently based in **Japan**, interested in long-term product engineering roles within commerce, retail tech, and platform teams.
+These days I work mainly as a **Senior Backend / Product Engineer**, and I do
+not require visa sponsorship in Japan.
 
 ---
 
-## 🧭 What I do
+## Engineering Snapshot
 
-- Build and evolve production software systems
-- Work close to product, not just code
-- Improve legacy platforms and make them sustainable
-- Design solutions meant for longevity, not just delivery
-
-I enjoy shipping things that people actually use.
-
----
-
-## 🚧 Currently building
-
-- Tooling and components around e-commerce platforms
-- Internal utilities using Flutter
-- Backend services and integrations
-- Experiments in game development (Unity / Godot)
-- Quietly building ideas I may release someday
+- **20+ years of experience** in backend and product engineering
+- strongest in **Java, Spring Boot, APIs, integrations, and commerce platforms**
+- experience in **global e-commerce**, including SAP's own commerce platform
+- comfortable working close to **product and business stakeholders**
+- backend-primary, with enough frontend/mobile exposure to contribute
+  end-to-end when needed
 
 ---
 
-## 🧬 Tech DNA
+## What I Do
 
-**Core expertise**  
-`Java` · `Spring` · `Hibernate` · `SAP Hybris` · `SQL`
+- build and evolve production backend systems
+- improve existing platforms without breaking delivery
+- work close to product and real user flows
+- make legacy systems more sustainable over time
+- focus on maintainability, reliability, and long-term platform health
 
-**Frontend direction**  
-`Flutter` · `Dart` · `Jaspr`
-
-**Backend evolution**  
-Exploring `Kotlin` as a natural step from Java —  keeping strong JVM alignment across the stack.
-
-**Environment & tooling**  
-`Docker` · `Git` · `VS Code` · `Bruno`
-
-I care about:
-- clean architecture
-- pragmatic engineering
-- product-driven development
-- maintainable systems over trendy stacks
+I like software that keeps its shape under real use, not just during demos.
 
 ---
 
-## 🧠 Background
+## Core Stack
 
-15+ years working on production systems across Spain, Ireland, and Japan.
+**Backend**
+`Java` · `Spring Boot` · `Spring Framework` · `REST APIs` · `SAP Hybris` · `SAP Commerce Cloud`
 
-Most of my career sits at the intersection of:
-- e-commerce platforms
-- enterprise systems
-- product engineering
-- modernization of legacy stacks
+**Frontend / Mobile**
+`Flutter` · `Dart` · `React` · `TypeScript`
 
-I like helping software evolve — not just grow.
+**Data / Platforms**
+`MongoDB` · `SQL / relational databases` · `Stripe` · `Shopify` · `AWS`
 
----
-
-## 🧩 Engineering philosophy
-
-- Systems > features  
-- Products > projects  
-- Stability > hype  
-- Shipping > overthinking  
-- Long-term thinking > short-term wins  
+**Current learning / expansion**
+`Kotlin` · `Redis` · `Kafka` · modern JVM / cloud runtime topics
 
 ---
 
-## 🛠 Selected work
+## Background
 
-- E-commerce platform modules and tooling
-- Flutter-based internal utilities
-- Backend integrations and services
-- Game development experiments and prototypes
+I have worked across Spain, Ireland, and Japan in both product and enterprise
+environments.
 
----
+The strongest recurring themes in my career are:
 
-## 🧭 Work style
+- commerce and e-commerce systems
+- backend platform evolution
+- payments and integrations
+- performance and reliability work
+- product-minded engineering in real production environments
 
-Remote-first  
-Async-friendly  
-Product-oriented  
-Long-term focused  
-
----
-
-## 🎮 Outside of work
-
-- Learning game development
-- Building hobby tools and side projects
-- Game jams & indie prototypes
-- Gunpla and miniature tinkering
-- Coffee rituals and late-night debugging sessions
+I am usually at my best in roles where the challenge is not just building
+something new, but improving and evolving systems that already matter.
 
 ---
 
-## 🌍 Languages
+## Currently Exploring
 
-Spanish (native) · English (fluent) · Japanese (learning)
-
----
-
-## ⏳ Now
-
-Living in Japan, building a long-term life and growing as a product engineer  
-while developing independent ideas and personal software projects.
+- Kotlin as a natural JVM evolution from Java
+- cloud and runtime topics from a backend engineer perspective
+- product ideas and internal tools
+- game development as a creative side path
 
 ---
 
-## 📫 Reach out
+## Work Style
+
+- remote-first
+- async-friendly
+- product-oriented
+- pragmatic over hype
+- long-term focused
+
+---
+
+## Outside of Work
+
+- learning game development
+- building side projects and internal tools
+- exploring product ideas
+- gunpla and miniature tinkering
+- coffee and late-night debugging
+
+---
+
+## Languages
+
+Spanish (native) · English (professional working)
+
+---
+
+## Reach Out
 
 LinkedIn: https://www.linkedin.com/in/pablo-miguel-fernandez-bonnett  
 Email: pmiguel.ieee@gmail.com
 
 ## Resume
 
-You can find my professional resume here:
+Professional resume:
 
 📄 [View Resume](./resume/resume.md)

@@ -1,29 +1,30 @@
 # Pablo Miguel Fernández Bonnett
 
 **Senior Backend / Product Engineer**  
-Java • Spring • Commerce Platforms • Flutter/Dart
+Java • Spring Boot • Commerce Platforms • APIs & Integrations • Flutter/Dart
 
-📍 Japan (Aichi) — Open to Remote / Tokyo  
+📍 Gamagori, Aichi, Japan  
 🌍 English (Professional) • Spanish (Native)
+🛂 No sponsorship required
 
 🔗 LinkedIn: https://www.linkedin.com/in/pablo-miguel-fernandez-bonnett  
 📧 Email: pmiguel.ieee@gmail.com
 
-_Last updated: March 2026_
+_Last updated: March 17, 2026_
 
 ---
 
 # Summary
 
-Senior Backend / Product Engineer with **20+ years of experience** building scalable systems for commerce, retail, and large-scale digital platforms.
+Senior Backend / Product Engineer with **20+ years of experience** building scalable systems for commerce, retail, SaaS, and large-scale digital platforms.
 
 Specialized in **Java and Spring-based backend architectures**, with a strong focus on performance, reliability, and production-grade systems used by real customers.
 
 Experienced in global e-commerce environments, including contributions to **SAP’s global commerce platform (SAP Store)**.
 
-In recent years, I expanded into **Flutter and modern frontend development** to support end-to-end product delivery when needed.
+In recent years, I expanded into **Flutter and modern frontend development** to support end-to-end product delivery when needed, while also working across **TypeScript/React, MongoDB, and AWS** in current product work.
 
-Currently based in Japan and interested in **long-term opportunities within product-focused engineering teams**, particularly in commerce, retail tech, and platform environments.
+Currently based in Japan and interested in **long-term opportunities within product-focused engineering teams**, particularly in commerce, retail tech, SaaS, and platform environments.
 
 ---
 
@@ -33,7 +34,7 @@ Currently based in Japan and interested in **long-term opportunities within prod
 Java • Kotlin (learning) • Dart
 
 ### Backend
-Spring Boot • REST APIs • Distributed Systems
+Spring Boot • Spring Framework • REST APIs • Distributed Systems
 
 ### Commerce Platforms
 SAP Commerce (Hybris) • SAP Store ecosystem
@@ -42,23 +43,24 @@ SAP Commerce (Hybris) • SAP Store ecosystem
 Flutter • React • TypeScript
 
 ### Databases
-PostgreSQL • MySQL • MongoDB
+SQL / relational • MongoDB • H2
 
 ### Infrastructure
-Docker • AWS • Git
+AWS • Containerized architecture • Git
 
 ---
 
 # Professional Experience
 
-## Independent Contractor — Senior Backend Engineer  
-Japan (Remote)  
+## Contractor — Senior Product Backend Engineer  
+Gamagori, Japan  
 2025 – Present
 
-- Backend development for a construction management product platform used to digitize complex operational workflows.
-- Design and implementation of backend services using **Java and Spring Boot**.
-- Contribute to product evolution with a focus on **performance, maintainability, and production readiness**.
-- Collaborate with distributed engineering teams in a remote product environment.
+- Contribute to the development of a construction management software platform used to digitize and streamline complex project operations.
+- Design and implement backend features with a strong focus on **performance, maintainability, and long-term product evolution**.
+- Own and evolve backend services supporting core product functionality using **Java, Spring Boot, MongoDB, TypeScript/React, and AWS-based containerized environments**.
+- Collaborate directly with **product leadership and business stakeholders** to clarify requirements and support real-world product adoption.
+- Contribute to production readiness and scalability as the platform is evaluated by customers in live operational environments.
 
 ---
 
@@ -71,6 +73,7 @@ Spain / Ireland
 - Implemented **Stripe payment integrations** supporting scalable transaction handling.
 - Led migration of a mobile application from Ionic to **Flutter** for cross-platform delivery.
 - Explored **Shopify integrations** and platform interoperability scenarios.
+- Worked with high ownership across features, collaborating directly with engineering leadership on prioritization and technical direction.
 
 ---
 
@@ -94,6 +97,7 @@ Ireland
 - Participated in cross-product **performance initiatives** improving platform scalability and reliability.
 - Contributed to the refactor and optimization of checkout flows reducing cart abandonment.
 - Acted as a technical reference within the team and supported knowledge transfer across engineers.
+- Worked with SAP teams across **Germany and the US** in a fully international environment.
 
 ---
 
@@ -110,8 +114,14 @@ Worked across enterprise Java environments delivering backend systems for financ
 **Master’s Degree in Game Design and Development**  
 UNIR – Universidad Internacional de La Rioja
 
+**Information Systems Engineering**  
+Universidad Alfonso X El Sabio
+
 **Technical Engineer in Computer Systems**  
 Universidad Alfonso X El Sabio
+
+**Technician in Computer Systems Administration**  
+IES Fernando Wirtz Suárez
 
 ---
 
