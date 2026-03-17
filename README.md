@@ -113,9 +113,3 @@ Spanish (native) · English (professional working)
 
 LinkedIn: https://www.linkedin.com/in/pablo-miguel-fernandez-bonnett  
 Email: pmiguel.ieee@gmail.com
-
-## Resume
-
-Professional resume:
-
-📄 [View Resume](./resume/resume.md)
