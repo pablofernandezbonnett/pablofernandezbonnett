@@ -111,5 +111,5 @@ Spanish (native) · English (professional working)
 
 ## Reach Out
 
-LinkedIn: https://www.linkedin.com/in/pablo-miguel-fernandez-bonnett  
+LinkedIn: https://www.linkedin.com/in/pablomfb  
 Email: pmiguel.ieee@gmail.com
