@@ -1,30 +1,30 @@
 # Pablo Miguel Fernández Bonnett
 
-**Senior Backend / Product Engineer**  
-Java • Spring Boot • Commerce Platforms • APIs & Integrations • Flutter/Dart
+**Senior Backend Engineer**  
+Java • Spring Boot • Commerce Platforms • APIs & Integrations
 
 📍 Gamagori, Aichi, Japan  
-🌍 English (Professional) • Spanish (Native)
+🌍 English (Full Professional) • Spanish (Native)
 🛂 No sponsorship required
 
 🔗 LinkedIn: https://www.linkedin.com/in/pablo-miguel-fernandez-bonnett  
 📧 Email: pmiguel.ieee@gmail.com
 
-_Last updated: March 17, 2026_
+_Last updated: April 11, 2026_
 
 ---
 
 # Summary
 
-Senior Backend / Product Engineer with **20+ years of experience** building scalable systems for commerce, retail, SaaS, and large-scale digital platforms.
+Senior backend engineer with **20 years of experience** building backend systems and commerce platforms used in live production environments.
 
-Specialized in **Java and Spring-based backend architectures**, with a strong focus on performance, reliability, and production-grade systems used by real customers.
+Strong background in **Java and Spring Boot**, with a focus on APIs, integrations, payment-adjacent flows, and system evolution in real-world product environments.
 
-Experienced in global e-commerce environments, including contributions to **SAP’s global commerce platform (SAP Store)**.
+Experience across backend, product, and platform contexts, always grounded in the same core: reliable backend systems, integrations, and production behavior.
 
-In recent years, I expanded into **Flutter and modern frontend development** to support end-to-end product delivery when needed, while also working across **TypeScript/React, MongoDB, and AWS** in current product work.
+Worked in international teams across Spain, Ireland, and Japan, including global e-commerce environments such as **SAP Store**.
 
-Currently based in Japan and interested in **long-term opportunities within product-focused engineering teams**, particularly in commerce, retail tech, SaaS, and platform environments.
+Currently based in Japan long term and interested in **backend or product engineering roles** in commerce, retail, fintech, and SaaS companies.
 
 ---
 
@@ -34,78 +34,87 @@ Currently based in Japan and interested in **long-term opportunities within prod
 Java • Kotlin (learning) • Dart
 
 ### Backend
-Spring Boot • Spring Framework • REST APIs • Distributed Systems
+Spring Boot • Spring Framework • REST APIs • Distributed product systems
 
 ### Commerce Platforms
-SAP Commerce (Hybris) • SAP Store ecosystem
+SAP Hybris • SAP Commerce Cloud • SAP Store ecosystem
+
+### Integrations
+Stripe • Shopify • API design and integration patterns
 
 ### Frontend / Mobile
 Flutter • React • TypeScript
 
 ### Databases
-SQL / relational • MongoDB • H2
+MySQL • MongoDB
 
-### Infrastructure
-AWS • Containerized architecture • Git
+### Delivery / Runtime
+Docker • Containerized runtimes • Git
+
+### Current Learning Focus
+Redis usage patterns • Kafka concepts • Kubernetes fundamentals • Cloud runtime and deployment patterns
 
 ---
 
 # Professional Experience
 
 ## Contractor — Senior Product Backend Engineer  
-Gamagori, Japan  
-2025 – Present
+Gamagori, Japan (Remote)  
+May 2025 – April 2026
 
-- Contribute to the development of a construction management software platform used to digitize and streamline complex project operations.
-- Design and implement backend features with a strong focus on **performance, maintainability, and long-term product evolution**.
-- Own and evolve backend services supporting core product functionality using **Java, Spring Boot, MongoDB, TypeScript/React, and AWS-based containerized environments**.
-- Collaborate directly with **product leadership and business stakeholders** to clarify requirements and support real-world product adoption.
-- Contribute to production readiness and scalability as the platform is evaluated by customers in live operational environments.
+- Backend development for a construction management product platform supporting complex operational workflows in production environments.
+- Designed and implemented backend services supporting core product functionality using **Java, Spring Boot, MongoDB, and React/TypeScript**.
+- Focused on **performance, maintainability, production readiness, and long-term platform evolution**.
+- Collaborated directly with product and business stakeholders within a distributed English-speaking team.
+- Contributed to scalability and readiness for live customer environments.
+- Engagement ended earlier than expected due to client-side budget constraints, with a clean handover.
 
 ---
 
 ## Philos IT — Senior Software Engineer  
-Spain / Ireland  
-2022 – 2025
+Spain (Remote)  
+April 2022 – April 2025
 
-- Worked on product-focused development around **SAP Hybris-based commerce platforms**.
-- Designed backend services and extensible features improving e-commerce platform workflows.
-- Implemented **Stripe payment integrations** supporting scalable transaction handling.
-- Led migration of a mobile application from Ionic to **Flutter** for cross-platform delivery.
-- Explored **Shopify integrations** and platform interoperability scenarios.
-- Worked with high ownership across features, collaborating directly with engineering leadership on prioritization and technical direction.
+- Backend services and extensions supporting **SAP Hybris-based commerce platforms** in real e-commerce operations.
+- Designed extensible backend features improving platform and backoffice workflows.
+- Implemented **Stripe payment API integration** for payment-related product flows.
+- Led migration of a mobile application from Ionic to **Flutter** for maintainable cross-platform delivery.
+- Integrated mobile applications with backend services and product workflows.
+- Explored **Shopify interoperability** scenarios and collaborated with engineering leadership on technical direction and ownership.
 
 ---
 
 ## EIDA Solutions — Senior Software Engineer  
 Ireland  
-2021 – 2022
+June 2021 – March 2022
 
-- Contributed to the development of a product platform supporting complex operational projects.
+- Backend and frontend contributions in a product platform supporting complex operational projects.
 - Worked across **Java backend and React/TypeScript frontend** environments.
 - Integrated analytics and reporting capabilities using **Metabase**.
-- Supported platform modernization while delivering new product features.
+- Supported system stability and platform evolution while delivering new product features.
+- Daily work conducted in English.
 
 ---
 
 ## Philos IT — Senior Software Engineer  
 Ireland  
-2015 – 2021
+October 2015 – March 2021
 
-- Contributed to **SAP’s global commerce platform (SAP Store)** in collaboration with international teams.
-- Developed backend services using **Java and SAP Hybris** within a global product environment.
-- Participated in cross-product **performance initiatives** improving platform scalability and reliability.
-- Contributed to the refactor and optimization of checkout flows reducing cart abandonment.
-- Acted as a technical reference within the team and supported knowledge transfer across engineers.
-- Worked with SAP teams across **Germany and the US** in a fully international environment.
+- Backend development for **SAP Store**, SAP's software-commerce and licensing platform used by enterprise customers.
+- Worked with **Java and SAP Hybris** in a large-scale production environment.
+- Contributed to checkout improvements, performance initiatives, and stable behavior in revenue-critical flows.
+- Acted as a technical reference in performance-related backend work and supported other engineers.
+- Collaborated with international teams across Europe and the US using English as the primary working language.
 
 ---
 
-## Earlier Career — Senior Java Engineer  
-2006 – 2015  
-Accenture • Alten • Decide • Borak • Vector
+## Earlier Career — Senior Java Developer  
+September 2006 – September 2015  
+Vector • Accenture • DECIDE • ALTEN • Borak
 
-Worked across enterprise Java environments delivering backend systems for finance, public sector, and enterprise platforms.
+Worked across enterprise Java environments delivering backend systems for banking, public administration, insurance, aerospace, and multi-industry enterprise platforms.
+
+Main themes included backend delivery, legacy modernization, compliance-adjacent systems, certificate-based integrations, and safe evolution of long-lived applications.
 
 ---
 
@@ -127,12 +136,12 @@ IES Fernando Wirtz Suárez
 
 # Personal Projects & Technical Exploration
 
-- Building product prototypes using **Flutter and Dart**
-- Exploring **Kotlin and the JVM ecosystem**
-- Developing independent software tools and product ideas
+- Building product prototypes and internal tools using **Flutter and Dart**
+- Exploring **Kotlin** as a natural JVM evolution from Java
+- Studying distributed systems and cloud runtime topics from a backend engineer perspective
 
 ---
 
 # Core Areas of Work
 
-Java • Spring Boot • Backend Engineering • Commerce Platforms • E-commerce Systems • Platform Architecture • Scalable Systems
+Java • Spring Boot • Backend Engineering • Commerce Platforms • APIs & Integrations • Payment-Adjacent Flows • Product Platforms
