@@ -19,7 +19,7 @@ not require visa sponsorship in Japan.
 
 ## Engineering Snapshot
 
-- **20+ years of experience** in backend and product engineering
+- **20 years of experience** in backend and product engineering
 - strongest in **Java, Spring Boot, APIs, integrations, and commerce platforms**
 - experience in **global e-commerce**, including SAP's own commerce platform
 - comfortable working close to **product and business stakeholders**
