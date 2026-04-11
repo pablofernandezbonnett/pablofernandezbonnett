@@ -83,6 +83,34 @@ something new, but improving and evolving systems that already matter.
 
 ---
 
+## Selected Personal Projects
+
+A couple of personal projects that show how I think about systems, tools, and
+delivery. Some are public read-only reference repos, and others are still
+private while they are being shaped.
+
+- [`go-no-go`](https://github.com/pablofernandezbonnett/go-no-go): a
+  local-first decision engine for screening engineering opportunities with
+  explicit personas, explainable rules, and thin browser UIs around CLI-owned
+  artifacts.
+- [`tools`](https://github.com/pablofernandezbonnett/tools): a public monorepo
+  of small developer tools built to solve real annoyances in my local workflow,
+  currently centered on `dev-edge`, a same-origin local gateway for browser,
+  API, auth, and HTTPS flows.
+- `ecosystem-simulation` (`WIP`, private): a telemetry-oriented system split
+  across a Kotlin/Spring backend, a Nuxt dashboard, a Flutter client, and
+  shared models.
+- `omni-channel` (`WIP`, private): a product/backend project around inventory,
+  reservations, product and order flows, with a Kotlin/Spring backend and
+  Flutter storefront work.
+- `jp-accounting-platform` (`WIP`, private): a Japan-focused accounting product
+  with a Kotlin/Spring backend, an authenticated web app, and a marketing site.
+
+More recently, I have also been grounding an `investment-simulator` idea, but
+it is still too early to publish or describe as a proper public project.
+
+---
+
 ## Work Style
 
 - remote-first
@@ -111,5 +139,6 @@ Spanish (native) · English (professional working)
 
 ## Reach Out
 
+Resume SPA: https://resume.pmfb.workers.dev  
 LinkedIn: https://www.linkedin.com/in/pablomfb  
 Email: pmiguel.ieee@gmail.com
