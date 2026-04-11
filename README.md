@@ -52,7 +52,7 @@ I like software that keeps its shape under real use, not just during demos.
 `MongoDB` · `SQL / relational databases` · `Stripe` · `Shopify` · `AWS`
 
 **Current learning / expansion**
-`Kotlin` · `Redis` · `Kafka` · modern JVM / cloud runtime topics
+`Kotlin` · `Go` · `Redis` · modern JVM / cloud runtime topics
 
 ---
 
