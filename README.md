@@ -1,42 +1,42 @@
-# Hi, I'm Pablo
+# Hello, folks 👋
 
-> I build backend software that has to keep working after launch.
+> I build software meant to last.
 
-I'm a software engineer from Spain, based in Japan.
+I'm Pablo, a software engineer from Spain, based in Japan.
 
-Most of my career has been centered on **Java and Spring backend systems**:
-commerce platforms, APIs, integrations, and product software used in live
-production environments.
+Most of my background is in **Java and Spring-based backend systems**, especially
+around commerce platforms, APIs, integrations, and production software that has
+to keep working in the real world.
 
-I usually enjoy the part of the job where delivery and stewardship meet:
-shipping useful functionality, improving existing systems, and keeping platforms
-healthy over time instead of treating software like a one-off demo.
+I have spent a big part of my career improving existing systems while still
+shipping new product functionality. That balance is what I usually enjoy most:
+keeping things practical, maintainable, and useful over time.
 
-I am backend-first. I can contribute across frontend or mobile when it helps
-the product, but my center of gravity is still **Java, Spring, integrations,
-and reliable production behavior**.
+These days I work mainly as a **Senior Backend / Product Engineer**, and I do
+not require visa sponsorship in Japan.
 
 ---
 
-## Quick Snapshot
+## Engineering Snapshot
 
-- **20 years of experience** across backend and product-oriented engineering
+- **20 years of experience** in backend and product engineering
 - strongest in **Java, Spring Boot, APIs, integrations, and commerce platforms**
-- experience in **global e-commerce**, including work connected to SAP Store
+- experience in **global e-commerce**, including SAP's own commerce platform
 - comfortable working close to **product and business stakeholders**
-- based in Japan long term and **no sponsorship required**
+- backend-primary, with enough frontend/mobile exposure to contribute
+  end-to-end when needed
 
 ---
 
-## The Kind of Work I Tend to Like
+## What I Do
 
-- backend services and APIs that matter to real users
-- commerce and payment-adjacent flows
-- improving existing systems without derailing delivery
-- platform evolution, legacy modernization, and pragmatic engineering decisions
-- maintainability, reliability, and sane behavior under real usage
+- build and evolve production backend systems
+- improve existing platforms without breaking delivery
+- work close to product and real user flows
+- make legacy systems more sustainable over time
+- focus on maintainability, reliability, and long-term platform health
 
-I like software that keeps its shape under pressure, not only during demos.
+I like software that keeps its shape under real use, not just during demos.
 
 ---
 
@@ -48,11 +48,11 @@ I like software that keeps its shape under pressure, not only during demos.
 **Frontend / Mobile**
 `Flutter` · `Dart` · `React` · `TypeScript`
 
-**Data / Integrations**
-`MongoDB` · `MySQL` · `Stripe` · `Shopify`
+**Data / Platforms**
+`MongoDB` · `SQL / relational databases` · `Stripe` · `Shopify` · `AWS`
 
-**Currently learning**
-`Kotlin` · `Redis patterns` · `Kafka concepts` · `Kubernetes fundamentals` · `Cloud runtime topics`
+**Current learning / expansion**
+`Kotlin` · `Redis` · `Kafka` · modern JVM / cloud runtime topics
 
 ---
 
@@ -61,24 +61,24 @@ I like software that keeps its shape under pressure, not only during demos.
 I have worked across Spain, Ireland, and Japan in both product and enterprise
 environments.
 
-The recurring themes in my work are usually:
+The strongest recurring themes in my career are:
 
-- backend platform evolution
 - commerce and e-commerce systems
-- integrations and payment-adjacent work
-- performance and reliability
-- product-minded engineering in live production environments
+- backend platform evolution
+- payments and integrations
+- performance and reliability work
+- product-minded engineering in real production environments
 
-I tend to be a good fit when the job is not just to build something new, but to
-make an existing system more useful, more stable, and easier to evolve.
+I am usually at my best in roles where the challenge is not just building
+something new, but improving and evolving systems that already matter.
 
 ---
 
 ## Currently Exploring
 
-- Kotlin as a natural next step in the JVM world
-- cloud and deployment topics from a backend engineer perspective
-- internal tools and product ideas
+- Kotlin as a natural JVM evolution from Java
+- cloud and runtime topics from a backend engineer perspective
+- product ideas and internal tools
 - game development as a creative side path
 
 ---
@@ -95,8 +95,9 @@ make an existing system more useful, more stable, and easier to evolve.
 
 ## Outside of Work
 
-- side projects and internal tools
-- game development curiosity
+- learning game development
+- building side projects and internal tools
+- exploring product ideas
 - gunpla and miniature tinkering
 - coffee and late-night debugging
 
@@ -104,7 +105,7 @@ make an existing system more useful, more stable, and easier to evolve.
 
 ## Languages
 
-Spanish (native) · English (full professional working proficiency)
+Spanish (native) · English (professional working)
 
 ---
 
