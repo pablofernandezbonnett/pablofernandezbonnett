@@ -97,6 +97,9 @@ private while they are being shaped.
   of small developer tools built to solve real annoyances in my local workflow,
   currently centered on `dev-edge`, a same-origin local gateway for browser,
   API, auth, and HTTPS flows.
+- [`currency-lang-translator`](https://github.com/pablofernandezbonnett/currency-lang-translator):
+  a Chrome extension that detects prices in page text and shows inline currency
+  conversions in the user's preferred currency.
 - `ecosystem-simulation` (`WIP`, private): a telemetry-oriented system split
   across a Kotlin/Spring backend, a Nuxt dashboard, a Flutter client, and
   shared models.
