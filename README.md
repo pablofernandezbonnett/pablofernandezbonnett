@@ -4,144 +4,128 @@
 
 I'm Pablo, a software engineer from Spain, based in Japan.
 
-Most of my background is in **Java and Spring-based backend systems**, especially
-around commerce platforms, APIs, integrations, and production software that has
-to keep working in the real world.
+---
 
-I have spent a big part of my career improving existing systems while still
-shipping new product functionality. That balance is what I usually enjoy most:
+## What I work on
+
+Backend systems, APIs, and integrations using Java and Spring Boot.
+
+Focused on building and evolving systems used in production, especially in:
+- commerce and payment flows
+- product platforms and operational systems
+- backend services with strong reliability and maintainability
+
+---
+
+## Current focus
+
+Based in Japan, focusing on backend roles in product, commerce, or SaaS environments.
+
+Open to remote or hybrid opportunities. No visa sponsorship required.
+
+---
+
+## About
+
+Most of my background is in **Java and Spring-based backend systems**, working on
+production software that needs to be reliable in real-world conditions.
+
+I have spent a large part of my career improving existing systems while still
+shipping new product functionality. That balance is where I usually bring the most value:
 keeping things practical, maintainable, and useful over time.
 
-These days I work mainly as a **Senior Backend / Product Engineer**, and I do
-not require visa sponsorship in Japan.
+I have worked extensively on commerce and product platforms, including SAP Store,
+SAP’s software-commerce platform, contributing to backend services supporting
+customer purchase flows and revenue-critical operations.
+
+I am comfortable working close to product and business stakeholders, translating
+real-world requirements into production systems used by customers.
 
 ---
 
 ## Engineering Snapshot
 
-- **20 years of experience** in backend and product engineering
-- strongest in **Java, Spring Boot, APIs, integrations, and commerce platforms**
-- experience in **global e-commerce**, including SAP's own commerce platform
-- comfortable working close to **product and business stakeholders**
-- backend-primary, with enough frontend/mobile exposure to contribute
-  end-to-end when needed
-
----
-
-## What I Do
-
-- build and evolve production backend systems
-- improve existing platforms without breaking delivery
-- work close to product and real user flows
-- make legacy systems more sustainable over time
-- focus on maintainability, reliability, and long-term platform health
-
-I like software that keeps its shape under real use, not just during demos.
+- 20 years of experience in backend and product engineering
+- strongest in Java, Spring Boot, APIs, integrations, and commerce platforms
+- experience in global e-commerce environments (SAP Store)
+- backend-primary, with end-to-end capability when needed (React, TypeScript, Flutter)
+- experience working in international, English-speaking teams across Europe and the US
 
 ---
 
 ## Core Stack
 
-**Backend**
-`Java` · `Spring Boot` · `Spring Framework` · `REST APIs` · `SAP Hybris` · `SAP Commerce Cloud`
+**Backend**  
+Java · Spring Boot · Spring Framework · REST APIs · SAP Hybris · SAP Commerce Cloud  
 
-**Frontend / Mobile**
-`Flutter` · `Dart` · `React` · `TypeScript`
+**Frontend / Mobile**  
+Flutter · Dart · React · TypeScript  
 
-**Data / Platforms**
-`MongoDB` · `SQL / relational databases` · `Stripe` · `Shopify` · `AWS`
+**Data / Platforms**  
+MongoDB · SQL / relational databases · Stripe · Shopify · AWS  
 
-**Current learning / expansion**
-`Kotlin` · `Go` · `Redis` · modern JVM / cloud runtime topics
+**Current learning / expansion**  
+Kotlin · Go · Redis · modern JVM / cloud runtime topics  
 
 ---
 
 ## Background
 
-I have worked across Spain, Ireland, and Japan in both product and enterprise
-environments.
+I have worked across Spain, Ireland, and Japan in both product and enterprise environments.
 
-The strongest recurring themes in my career are:
-
+Recurring themes in my work:
 - commerce and e-commerce systems
 - backend platform evolution
 - payments and integrations
-- performance and reliability work
-- product-minded engineering in real production environments
+- performance and reliability
+- product-oriented engineering in live environments
 
-I am usually at my best in roles where the challenge is not just building
-something new, but improving and evolving systems that already matter.
-
----
-
-## Currently Exploring
-
-- Kotlin as a natural JVM evolution from Java
-- cloud and runtime topics from a backend engineer perspective
-- product ideas and internal tools
-- game development as a creative side path
+I am usually at my best in roles where the challenge is not just building something new,
+but evolving systems that already matter.
 
 ---
 
 ## Selected Personal Projects
 
-A couple of personal projects that show how I think about systems, tools, and
-delivery. Some are public read-only reference repos, and others are still
-private while they are being shaped.
+- [`go-no-go`](https://github.com/pablofernandezbonnett/go-no-go): decision engine for evaluating engineering opportunities with explicit rules and explainable outputs  
+- [`tools`](https://github.com/pablofernandezbonnett/tools): developer tools for local workflows, including a same-origin local gateway  
+- [`currency-lang-translator`](https://github.com/pablofernandezbonnett/currency-lang-translator): Chrome extension for inline currency conversion  
 
-- [`go-no-go`](https://github.com/pablofernandezbonnett/go-no-go): a
-  local-first decision engine for screening engineering opportunities with
-  explicit personas, explainable rules, and thin browser UIs around CLI-owned
-  artifacts.
-- [`tools`](https://github.com/pablofernandezbonnett/tools): a public monorepo
-  of small developer tools built to solve real annoyances in my local workflow,
-  currently centered on `dev-edge`, a same-origin local gateway for browser,
-  API, auth, and HTTPS flows.
-- [`currency-lang-translator`](https://github.com/pablofernandezbonnett/currency-lang-translator):
-  a Chrome extension that detects prices in page text and shows inline currency
-  conversions in the user's preferred currency.
-- `ecosystem-simulation` (`WIP`, private): a telemetry-oriented system split
-  across a Kotlin/Spring backend, a Nuxt dashboard, a Flutter client, and
-  shared models.
-- `omni-channel` (`WIP`, private): a product/backend project around inventory,
-  reservations, product and order flows, with a Kotlin/Spring backend and
-  Flutter storefront work.
-- `jp-accounting-platform` (`WIP`, private): a Japan-focused accounting product
-  with a Kotlin/Spring backend, an authenticated web app, and a marketing site.
-
-More recently, I have also been grounding an `investment-simulator` idea, but
-it is still too early to publish or describe as a proper public project.
+Other projects (WIP, private):
+- ecosystem simulation platform (Kotlin/Spring + Flutter + Nuxt)
+- omni-channel commerce backend
+- Japan-focused accounting platform
 
 ---
 
 ## Work Style
 
-- remote-first
-- async-friendly
-- product-oriented
-- pragmatic over hype
-- long-term focused
+- remote-first  
+- async-friendly  
+- product-oriented  
+- pragmatic over hype  
+- long-term focused  
 
 ---
 
 ## Outside of Work
 
-- learning game development
-- building side projects and internal tools
-- exploring product ideas
-- gunpla and miniature tinkering
-- coffee and late-night debugging
+- learning game development  
+- building side projects and internal tools  
+- exploring product ideas  
+- gunpla and miniature tinkering  
+- coffee and late-night debugging  
 
 ---
 
 ## Languages
 
-Spanish (native) · English (professional working)
+Spanish (native) · English (full professional proficiency) · Japanese (work in progress) 
 
 ---
 
 ## Reach Out
 
-Resume SPA: https://resume.pmfb.workers.dev  
-LinkedIn: https://www.linkedin.com/in/pablomfb  
-Email: pmiguel.ieee@gmail.com
+Resume SPA: [pmfb resume](https://resume.pmfb.workers.dev) 
+LinkedIn: [linkedin.com/in/pablomfb](https://www.linkedin.com/in/pablomfb)  
+Email: [pmiguel.ieee@gmail.com](mailto:pmiguel.ieee@gmail.com)
