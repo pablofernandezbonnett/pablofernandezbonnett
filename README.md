@@ -80,6 +80,7 @@ I am usually at my best in roles where the challenge is not just building someth
 
 ## Selected Personal Projects
 
+- [`skills`](https://github.com/pablofernandezbonnett/skills): personal Codex skills monorepo for reusable local skills such as high-signal engineering communication and truthful CV / LinkedIn positioning  
 - [`go-no-go`](https://github.com/pablofernandezbonnett/go-no-go): decision engine for evaluating engineering opportunities with explicit rules and explainable outputs  
 - [`tools`](https://github.com/pablofernandezbonnett/tools): developer tools for local workflows, including a same-origin local gateway  
 - [`currency-lang-translator`](https://github.com/pablofernandezbonnett/currency-lang-translator): Chrome extension for inline currency conversion  
