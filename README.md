@@ -1,6 +1,6 @@
 # Hello, folks 👋
 
-> I build software meant to last.
+> Senior Java backend engineer focused on product and commerce systems that have to keep working once live.
 
 I'm Pablo, a software engineer from Spain, based in Japan.
 
@@ -8,80 +8,73 @@ I'm Pablo, a software engineer from Spain, based in Japan.
 
 ## What I work on
 
-Backend systems, APIs, and integrations using Java and Spring Boot.
+Backend systems, APIs, and integrations using Java and Spring.
 
-Focused on building and evolving systems used in production, especially in:
-- commerce and payment flows
-- product platforms and operational systems
-- backend services with strong reliability and maintainability
+Focused on systems where these things matter in real life:
+- product and commerce workflows used by real customers
+- checkout, fulfilment, and payment-related flows
+- long-lived systems that need maintainability and steady improvement over time
 
 ---
 
 ## Current focus
 
-Based in Japan, focusing on backend roles in product, commerce, or SaaS environments.
+Based in Japan, focusing on backend or product engineering roles in commerce, retail, fintech-adjacent, or SaaS environments.
 
-Open to remote or hybrid opportunities. No visa sponsorship required.
+Open to remote, hybrid, or local opportunities. No visa sponsorship required.
 
 ---
 
 ## About
 
-Most of my background is in **Java and Spring-based backend systems**, working on
-production software that needs to be reliable in real-world conditions.
+Most of my background is in **Java and Spring-based backend systems**, especially in product and commerce environments.
 
-I have spent a large part of my career improving existing systems while still
-shipping new product functionality. That balance is where I usually bring the most value:
-keeping things practical, maintainable, and useful over time.
+A big part of that experience comes from **SAP Store** and **SAP Commerce / Hybris**, where I worked on backend services, integrations, checkout and fulfilment flows, and performance-related improvements in customer-facing systems.
 
-I have worked extensively on commerce and product platforms, including SAP Store,
-SAP’s software-commerce platform, contributing to backend services supporting
-customer purchase flows and revenue-critical operations.
+I usually bring the most value when a product or workflow problem has to be turned into backend functionality that stays usable, maintainable, and practical over time.
 
-I am comfortable working close to product and business stakeholders, translating
-real-world requirements into production systems used by customers.
+I have worked closely with product owners, business stakeholders, account managers, and international teams in English-speaking environments. I can also contribute across adjacent frontend or mobile boundaries when needed, especially with Flutter / Dart and React / TypeScript, but backend remains my main focus.
 
 ---
 
 ## Engineering Snapshot
 
-- 20 years of experience in backend and product engineering
-- strongest in Java, Spring Boot, APIs, integrations, and commerce platforms
-- experience in global e-commerce environments (SAP Store)
-- backend-primary, with end-to-end capability when needed (React, TypeScript, Flutter)
-- experience working in international, English-speaking teams across Europe and the US
+- 20 years of experience in backend and product-oriented engineering
+- strongest in Java, Spring, APIs, integrations, and customer-facing commerce systems
+- experience in SAP Store, SAP Commerce / Hybris, Stripe integration, checkout, and payment-related flows
+- senior individual contributor with technical influence on design choices, maintainability, mentoring, and hard problem solving
+- experience working in international English-speaking teams across Europe and Japan
 
 ---
 
 ## Core Stack
 
 **Backend**  
-Java · Spring Boot · Spring Framework · REST APIs · SAP Hybris · SAP Commerce Cloud  
+Java · Spring Boot · Spring Framework · REST APIs
 
-**Frontend / Mobile**  
-Flutter · Dart · React · TypeScript  
+**Commerce / Integrations**  
+SAP Commerce Cloud / Hybris · SAP Store · Stripe
 
-**Data / Platforms**  
-MongoDB · SQL / relational databases · Stripe · Shopify · AWS  
+**Data / Delivery**  
+MySQL · Hibernate · MongoDB · Docker (local development)
 
-**Current learning / expansion**  
-Kotlin · Go · Redis · modern JVM / cloud runtime topics  
+**Adjacent capability**  
+Flutter · Dart · React · TypeScript
 
 ---
 
 ## Background
 
-I have worked across Spain, Ireland, and Japan in both product and enterprise environments.
+I have worked across Spain, Ireland, and Japan in product, commerce, and enterprise environments.
 
 Recurring themes in my work:
-- commerce and e-commerce systems
-- backend platform evolution
-- payments and integrations
-- performance and reliability
-- product-oriented engineering in live environments
+- backend systems used by real customers
+- integrations and customer-facing flows
+- checkout, fulfilment, and payment-related behavior
+- performance work and long-lived platform evolution
+- practical collaboration with product and business teams
 
-I am usually at my best in roles where the challenge is not just building something new,
-but evolving systems that already matter.
+I am usually at my best in roles where the challenge is not just building something new, but improving systems that already matter.
 
 ---
 
@@ -120,12 +113,12 @@ Other projects (WIP, private):
 
 ## Languages
 
-Spanish (native) · English (full professional proficiency) · Japanese (work in progress) 
+Spanish (native) · English (full professional proficiency) · Japanese (work in progress)
 
 ---
 
 ## Reach Out
 
-Resume SPA: [pmfb resume](https://resume.pmfb.workers.dev) 
+Resume SPA: [pmfb resume](https://resume.pmfb.workers.dev)  
 LinkedIn: [linkedin.com/in/pablomfb](https://www.linkedin.com/in/pablomfb)  
 Email: [pmiguel.ieee@gmail.com](mailto:pmiguel.ieee@gmail.com)
